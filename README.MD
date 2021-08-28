@@ -31,9 +31,9 @@
    - input determines the input path, it must be either an audio file or a directory containing audio files.
 
    - format determines the encoding category:
-     ui to encode the audio for SFX that plays at UI level.
-     3d to encode the audio for SFX that plays on the 3D world.
-     mx to encode the audio for Music.
+     - ui to encode the audio for SFX that plays at UI level.
+     - 3d to encode the audio for SFX that plays on the 3D world.
+     - mx to encode the audio for Music.
 
    - output determines the output path, defaulting to the same as the input, determining the output automatically disables the "Press any key to exit" message.
 
