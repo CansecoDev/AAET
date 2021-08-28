@@ -2,6 +2,8 @@
 
  * Avorion Audio Encoding Tools is a bundle of Windows Batch Shell scripts to ease the audio production for Avorion modders, powered by ffmpeg.
 
+ * [ Download](https://github.com/CansecoDev/AAET/releases/download/v1.0/AAET.ZIP)
+
 -------------------------------------------------------------------------------
 ### Features
 
