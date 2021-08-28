@@ -49,4 +49,4 @@
 
  * This file is licensed under the GNU Lesser General Public License, v2.1
 
-   See license.txt for details.
+   See LICENSE.TXT for details.
