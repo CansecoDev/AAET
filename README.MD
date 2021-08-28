@@ -7,7 +7,7 @@
 -------------------------------------------------------------------------------
 ### Features
 
- * Encode any audio file to what the it requires with ease.
+ * Encode any audio file to what it requires with ease.
 
  * Encode multiple audio files at once given a category.
 
